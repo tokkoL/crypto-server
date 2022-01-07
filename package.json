@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tokkoL/crypto-server/issues"
   },
-  "homepage": "https://github.com/tokkoL/crypto-server#readme"
+  "homepage": "https://github.com/tokkoL/crypto-server#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }

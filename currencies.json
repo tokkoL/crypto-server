@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Drakescoin",
+        "symbol": "DRA",
+        "prices": [0.004557603543240819],
+        "market_cap": 41218388,
+        "circulating_supply": 9043873081,
+        "max_supply": 9795538019
+    },
+    {
+        "name": "Bluebird",
+        "symbol": "BLB",
+        "prices": [0.004973074925083693],
+        "market_cap": 27022369,
+        "circulating_supply": 5433734542,
+        "max_supply": 7565876299
+    },
+    {
+        "name": "Nephite",
+        "symbol": "NEP",
+        "prices": [0.007924540570311835],
+        "market_cap": 30189623,
+        "circulating_supply": 3809637004,
+        "max_supply": 5609907891
+    },
+    {
+        "name": "Anadroma",
+        "symbol": "ANA",
+        "prices": [13.532745460191833],
+        "market_cap": 3631105638,
+        "circulating_supply": 268319954,
+        "max_supply": 363011906
+    },
+    {
+        "name": "Patch",
+        "symbol": "PTC",
+        "prices": [22.356852944482956],
+        "market_cap": 669702528,
+        "circulating_supply": 29955134,
+        "max_supply": 35780100
+    }
+]
